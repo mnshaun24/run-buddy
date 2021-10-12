@@ -99,15 +99,7 @@
     margin: 5px 0 15px 0;
   }
 
-  .hero-text {
-      text-align: right;
-      position: absolute;
-  }
-  
-  .hero-text h2 {
-      color: #fce138;
-      font-size: 48px;
-  }
+
   
   .form-input {
     border: 1px solid #024e76;
