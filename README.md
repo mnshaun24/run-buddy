@@ -11,7 +11,7 @@ Practice CSS with an already built app for a make-believe professional fitness s
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mnshaun24.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Shaun
