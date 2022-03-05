@@ -1,7 +1,10 @@
 # Run Buddy, Inc
 
+## About
+This was my first attempt at coding. The goal was to replicate some front-end design features with an already working template. There's nothing impressive here to a seasoned coder, for sure. But it marks the start of my journey. It marks something I'm extremely proud of it. It marks a new track forged in my path of life.
+
 ## Purpose
-A website that offers fitness training services. 
+Practice CSS with an already built app for a make-believe professional fitness service. 
 
 ## Built With
 * HTML
@@ -11,6 +14,6 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Shaun
 
 ### ©️2019 Run Buddy, Inc
